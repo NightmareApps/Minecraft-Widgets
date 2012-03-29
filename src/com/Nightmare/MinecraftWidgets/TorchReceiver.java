@@ -1,5 +1,7 @@
 package com.Nightmare.MinecraftWidgets;
 
+//GITHUB COMMIT
+
 import android.appwidget.AppWidgetManager;
 import android.content.BroadcastReceiver;
 import android.content.ComponentName;

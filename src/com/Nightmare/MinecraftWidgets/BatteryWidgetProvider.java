@@ -24,7 +24,7 @@ public class BatteryWidgetProvider extends AppWidgetProvider {
 		TIME.set(Calendar.SECOND, 0);
 		TIME.set(Calendar.MILLISECOND, 0);
 
-		
+
 		final Intent i = new Intent(context, BatteryReceiver.class);
 
 		
