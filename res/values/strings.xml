@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Minecraft Widgets</string>
+    <string name="no_flash">Your device does not support flash! :(</string>
+    <string name="no_camera">Your device does not have a camera! :(</string>
+    <string name="torch_description">Torch</string>
+    <string name="battery_description">Battery</string>
+    <string name="batteryLabel">Battery</string>
+    <string name="torchLabel">Torch</string>
+    <string name="bed_description">Bed</string>
+	<string name ="bedLabel">Bed - Work in Progress!</string>
+</resources>

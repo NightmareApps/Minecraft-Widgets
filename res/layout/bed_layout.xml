@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_gravity="center"
+    android:layout_margin="8dip" >
+
+    <ImageButton
+        android:id="@+id/bed_button"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@null"
+        android:contentDescription="@string/bed_description"
+        android:src="@drawable/bed" >
+    </ImageButton>
+
+</LinearLayout>

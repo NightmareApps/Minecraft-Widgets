@@ -1,0 +1,4 @@
+Minecraft Widgets is brought to you by NightmareApps!
+This source code is in no way meant for the public usage. Please contact me via NightmareApps@gmail.com if you plan on using this source.
+All code and assets belong to Trent Rand from NightmareApps.
+- NightmareApps.com
